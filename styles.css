@@ -1,23 +1,39 @@
-*{
-  margin:0px;
-  padding: 0px;
-  
+.oddcss{
+background-color: rgb(240, 140, 140);
+text-align: left;
+font-family: Verdana,"DejaVu", sans-serif;
+
+}
+
+
+#even1{
+    color:blue;
+    font-size: 36px;
+
+
+}
+
+.oddcss{
+
+font-size: 15px;
+
+}
+
+
+.oddcss2{
+font-size: 24px;
+
+}
+#even2{
+background-color: lightgreen;
+font-weight: 700;
+font-size: 24px;
 }
 
 
 
- 
 
-.extcss1{
-  background-color: red;
-  margin-bottom: 16px;
-  align-items: center;
-  color:white;
-  text-align: center;
-  font-family: 'Courier New', Courier, monospace;
-  font-weight: 700;
-  background-color: red;
-  font-size: 32px;
-  padding:1px;
+.oddcss3{
+font-size: 15px;
+text-align: left;
 }
-
