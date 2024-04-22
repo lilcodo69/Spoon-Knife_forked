@@ -1,17 +1,23 @@
-* {
+*{
   margin:0px;
-  padding:0px;
+  padding: 0px;
+  
 }
 
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
+
+
+ 
+
+.extcss1{
+  background-color: red;
+  margin-bottom: 16px;
+  align-items: center;
+  color:white;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 700;
+  background-color: red;
+  font-size: 32px;
+  padding:1px;
 }
 
-p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
-}
