@@ -1,39 +1,22 @@
-.oddcss{
-background-color: rgb(240, 140, 140);
-text-align: left;
-font-family: Verdana,"DejaVu", sans-serif;
+.blkcss , .ylocss{
 
-}
+font-size: 28px;
+font-family: Helvetica, 'Times New Roman', sans-serif;
 
 
-#even1{
-    color:blue;
-    font-size: 36px;
 
 
 }
 
-.oddcss{
-
-font-size: 15px;
-
+.blkcss{
+    color:white;
+    background-color: black;
+    font-weight: 750;
+border-width: 2px;
 }
 
-
-.oddcss2{
-font-size: 24px;
-
-}
-#even2{
-background-color: lightgreen;
-font-weight: 700;
-font-size: 24px;
-}
-
-
-
-
-.oddcss3{
-font-size: 15px;
-text-align: left;
+.ylocss{
+    background-color: yellow;
+    font-weight: 750;
+    border-width: 2px;
 }
