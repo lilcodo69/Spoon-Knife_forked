@@ -1,42 +1,35 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
 }
 
-.para,
-.small-para {
-  color: hsl(0, 0%, 0%);
-  font-weight: 800;
+.one {
+  background: pink;
+  border: 3px solid blue;
+  /* CHANGE ME */
+  padding-bottom:15px;
+  padding-top:15px;
+  padding-left: 25px;
+  margin: 10px;
+
 }
 
-.para.small-para {
-  font-size: 14px;
-  font-weight: 800;
+.two {
+  background: lightblue;
+  border: 3px solid purple;
+  /* CHANGE ME */
+  margin-bottom: 35px;
 }
 
-.para {
-  font-size: 22px;
-}
-
-#confirm-button{
-  background: green;
-  color: white;
-  font-weight: bold;
-} 
-
-.button {
-  background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
-  font-size: 20px;
-}
-
-.text .child {
-  color: rgb(0, 0, 0);
-  font-weight: 800;
-  font-size: 14px;
-}
-
-.text{
-  color: rgb(0, 0, 0);
-  font-size: 22px;
-  font-weight: 100;
+.three {
+  background: peachpuff;
+  border: 3px solid brown;
+  width: 200px;
+  /* CHANGE ME */
+  padding-top:25px;
+  padding-bottom: 25px;
+  padding-left: 17px;
+  
+  margin-left: 378px;
+  
 }
