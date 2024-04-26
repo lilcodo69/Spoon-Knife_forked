@@ -1,35 +1,41 @@
 body {
-  max-width: 600px;
-  margin: 0 auto;
+  background: #eee;
+  font-family: sans-serif;
 }
 
-.one {
-  background: pink;
-  border: 3px solid blue;
-  /* CHANGE ME */
-  padding-bottom:15px;
-  padding-top:15px;
-  padding-left: 25px;
-  margin: 10px;
+.card {
+  width: 400px;
+  background: #fff;
+  margin: 16px auto;
+  padding:8px;
 
 }
 
-.two {
-  background: lightblue;
-  border: 3px solid purple;
-  /* CHANGE ME */
-  margin-bottom: 35px;
+.title {
+  background: #e3f4ff;
+  margin-bottom: 8px;
+  font-size: 16px;
+  padding: 8px;
+
 }
 
-.three {
-  background: peachpuff;
-  border: 3px solid brown;
-  width: 200px;
-  /* CHANGE ME */
-  padding-top:25px;
-  padding-bottom: 25px;
-  padding-left: 17px;
+.content {
+  background: #e3f4ff;
+ padding:16px 8px;
   
-  margin-left: 378px;
-  
+}
+
+.button-container {
+  background: #e3f4ff;
+  margin-top:8px;
+  text-align: center;
+  padding: 8px;
+}
+
+button {
+  background: white;
+  border: 1px solid #eee;
+  padding: 8px 24px;
+display: block;
+margin:0 auto;
 }
